@@ -21,7 +21,7 @@ End the program and close the output image windows.
 ## Program:
 ```python
 # Developed By: PRADEEP PS
-# Register Number : 
+# Register Number : 212220230034
 # To Read,display the image
 img = cv2.imread('flower.jpg',1)
 cv2.imshow('nature',img)
