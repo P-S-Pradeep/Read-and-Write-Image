@@ -77,6 +77,7 @@ cv2.waitKey(0)
 ### ii)Write the image
 
 <br>
+
 ![ex1 2](https://user-images.githubusercontent.com/75235477/160865694-671048f4-8ac7-4983-b130-608b63916a0f.png)
 
 <br>
@@ -84,6 +85,7 @@ cv2.waitKey(0)
 ### iii)Shape of the Image
 
 <br>
+
 ![ex1 3](https://user-images.githubusercontent.com/75235477/160865728-2b192e15-657d-4a24-89e2-875b03176906.png)
 
 <br>
